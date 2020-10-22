@@ -1,8 +1,8 @@
-# PyBer_Analysis
+# PyBer Analysis
 
 ## Overview 
 
-The following is an analysis of transaction data for the ride-share company PyBer. Data from a total of 2,375 rides was categorizied by whether the transaction occured in a rural, suburban, or urban city. This new analysis builds upon previous knowledge gained through an analysis of the measures of central tendencies of data by city type and the percent of total fares, total rides, and total drivers by city type. 
+The following is an analysis of transaction data for the ride-share company PyBer. Data from a total of 2,375 rides was categorized by whether the transaction occured in a rural, suburban, or urban city. This new analysis builds upon previous knowledge gained through an analysis of the measures of central tendencies of data by city type and the percent of total fares, total rides, and total drivers by city type. 
 
 ## Results: 
 
